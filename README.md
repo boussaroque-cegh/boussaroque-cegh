@@ -1,2 +1,6 @@
 # boussaroque-cegh
-repo vitrine
+
+Organisation CEGH for fasteddy10.
+Intended to practice; sandbox.
+___
+Plus plutard
